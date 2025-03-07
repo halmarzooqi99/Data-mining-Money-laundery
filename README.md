@@ -3,7 +3,7 @@ Graph Neural Networks (GNNs) for Data Mining
 
 Overview
 
-This repository contains implementations of Graph Neural Networks (GNNs) for data mining and machine learning tasks. The models include GCN (Graph Convolutional Networks), GAT (Graph Attention Networks), and GraphSAGE, trained and evaluated on a Kaggle dataset.
+This repository contains implementations of Graph Neural Networks (GNNs) for data mining and machine learning tasks. The models include GCN (Graph Convolutional Networks), GAT (Graph Attention Networks), trained and evaluated on a Kaggle dataset.
 
 Dataset
 
