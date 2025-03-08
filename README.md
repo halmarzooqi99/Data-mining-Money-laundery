@@ -16,19 +16,22 @@ Ensure you have a Kaggle account.
 
 ## **Install the Kaggle API by running:**
 
-```pip install kaggle```
+```pip install kaggle
+```
 
 Run the following command to download the dataset:
 
 ```kaggle datasets download -d trnaacthng/multi-gnn
-unzip multi-gnn.zip -d multi_gnn_data```
+unzip multi-gnn.zip -d multi_gnn_data
+```
 
 ## **Installation**
 
 To set up the environment, install the necessary dependencies:
 
 ```pip install torch torch_geometric torch_sparse torch_scatter torch_spline_conv torch_cluster
-pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn```
+pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
+```
 
 ## **Running the Models**
 
@@ -36,11 +39,13 @@ Ensure that the dataset is downloaded and extracted into the correct folder befo
 
 ## **Training the GAT Model**
 
-```python data_mining_gnns_models.py --model GAT```
+```python data_mining_gnns_models.py --model GAT
+```
 
 ## **Training the GCN Model**
 
-```python data_mining_gnns_models.py --model GCN```
+```python data_mining_gnns_models.py --model GCN
+```
 
 ## **Results & Visualization**
 
