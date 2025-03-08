@@ -17,6 +17,7 @@ Ensure you have a Kaggle account.
 ## **Install the Kaggle API by running:**
 
 ```pip install kaggle
+
 ```
 
 Run the following command to download the dataset:
